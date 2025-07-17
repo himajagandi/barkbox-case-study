@@ -1,6 +1,3 @@
-# barkbox-case-study
-Product strategy case study to improve retention via personalization
-
 # 🎁 BarkBox Retention Strategy – Product Case Study
 
 **Author:** Himaja Gandi  
